@@ -1,5 +1,5 @@
 class Dog
- 
+ end
   def bark
     puts "Woof!"
   end
@@ -10,6 +10,3 @@ end
   end
 end
 
-fido = Dog.new
-fido.bark
-fido.sit
