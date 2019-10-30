@@ -4,9 +4,9 @@ end
   def bark
     puts "Woof!"
     end
-  end
+end
   
   def sit
     puts "The Dog is sitting"
     end
-  end
+end
